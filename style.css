@@ -1,12 +1,10 @@
 body {
   background-color: lightblue;
-  
-  
 }
 .container {
   background: aliceblue;
-  display: block;
-  justify-content: center; 
+  justify-content: center;
+  align-items: center;
   text-align: center;  
   border-radius: 15px;
   width: 30rem;
@@ -19,12 +17,3 @@ body {
   border-radius: 100%;
 }
 
-/* .wrap {
-  background-color: aqua;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
-  height: 60rem;
- 
-} */
