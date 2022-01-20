@@ -1,8 +1,7 @@
-body{
-    background-color: lightblue;
+body {
+  background-color: lightblue;
 }
 .container {
- 
   background: aliceblue;
   justify-content: center;
   align-items: center;
@@ -14,9 +13,13 @@ body{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius:100%;
+  border-radius: 100%;
 }
 
-.wrap{
-    background-color: aqua;
+.wrap {
+  background-color: aqua;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 60rem;
 }
