@@ -2,7 +2,7 @@ body{
     background-color: lightblue;
 }
 .container {
-  margin-top: 5vh;
+ 
   background: aliceblue;
   justify-content: center;
   align-items: center;
@@ -17,3 +17,6 @@ body{
   border-radius:100%;
 }
 
+.wrap{
+    background-color: aqua;
+}
