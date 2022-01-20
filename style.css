@@ -1,11 +1,14 @@
 body {
   background-color: lightblue;
-}
-.container {
-  background: aliceblue;
   justify-content: center;
   align-items: center;
   text-align: center;  
+}
+.container {
+  background: aliceblue;
+  /* justify-content: center;
+  align-items: center;
+  text-align: center;   */
   border-radius: 15px;
   width: 30rem;
 }
