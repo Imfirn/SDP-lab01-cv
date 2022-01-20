@@ -2,7 +2,7 @@ body{
     background-color: lightblue;
 }
 .container {
-  background-color: aliceblue;
+  background: aliceblue;
   justify-content: center;
   align-items: center;
   text-align: center;
@@ -15,6 +15,4 @@ body{
   margin-right: auto;
   border-radius:100%;
 }
-.mypic:hover{
-    border: 0;
-}
+
