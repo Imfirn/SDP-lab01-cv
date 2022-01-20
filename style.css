@@ -1,14 +1,14 @@
 body {
   background-color: lightblue;
- 
+  
 }
 .container {
   background: aliceblue; 
   border-radius: 15px;
   justify-content: center;
   align-items: center;
-  text-align: center;  
-  /* width: 30rem; */
+  text-align: center; 
+  width: 30rem;
 }
 .mypic {
   width: 20rem;
@@ -18,3 +18,9 @@ body {
   border-radius: 100%;
 }
 
+.wrap{
+  justify-content: center;
+  align-items: center;
+  text-align: center;  
+  background-color: aqua;
+}
