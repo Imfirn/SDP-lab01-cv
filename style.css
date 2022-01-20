@@ -1,14 +1,11 @@
 body {
   background-color: lightblue;
-  /* justify-content: center;
+  justify-content: center;
   align-items: center;
-  text-align: center;   */
+  text-align: center;  
 }
 .container {
-  background: aliceblue;
-  /* justify-content: center;
-  align-items: center;
-  text-align: center;   */
+  background: aliceblue; 
   border-radius: 15px;
   width: 30rem;
 }
@@ -20,9 +17,3 @@ body {
   border-radius: 100%;
 }
 
-.wrap{
-  justify-content: center;
-  align-items: center;
-  text-align: center;  
-  background-color: aqua;
-}
